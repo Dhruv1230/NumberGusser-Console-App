@@ -1,0 +1,5 @@
+C:\Users\Dhulo\source\repos\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\Dhulo\source\repos\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\Dhulo\source\repos\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\Dhulo\source\repos\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\Dhulo\source\repos\NumberGuesser\obj\Debug\NumberGuesser.pdb
